@@ -9,7 +9,7 @@ TextUtils is a simple Django project application that offers the following funct
 Install Django:
 sudo apt install django
 
-Run TextUtils:
+Start server:
 Switch to TextUtils and type: python3 manage.py runserver
 
 A server will open at 127.0.0.1 at port 8000
