@@ -11,3 +11,8 @@ sudo apt install django
 
 Run TextUtils:
 Switch to TextUtils and type: python3 manage.py runserver
+
+A server will open at 127.0.0.1 at port 8000
+
+Run TextUtils:
+Open browser and type 127.0.0.1:8000 
