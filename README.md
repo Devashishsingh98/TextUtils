@@ -6,8 +6,8 @@ TextUtils is a simple Django project application that offers the following funct
 4. Counting the no. of characters
 
 
-How to run ?
-Open Terminal, switch to TextUtils and type the following:
-          python3 manage.py runserver
-          
+Install Django:
+sudo apt install django
 
+Run TextUtils:
+Switch to TextUtils and type: python3 manage.py runserver
