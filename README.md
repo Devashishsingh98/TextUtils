@@ -1,4 +1,4 @@
-# TextUtils
+# Text-Utils
 TextUtils is a simple Django project application that offers the following functionalities on a given text:
 
 1. Removal of punctuations
@@ -8,7 +8,7 @@ TextUtils is a simple Django project application that offers the following funct
 
 
 ### Install Django:
-sudo apt install django
+pip3 install django
 
 ### Start server:
 Switch to TextUtils and type: python3 manage.py runserver
