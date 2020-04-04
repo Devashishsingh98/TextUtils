@@ -1,5 +1,5 @@
 .bg-light{
-    background-color: green!important;
+    background-color: white!important;
 }
 .btn-outline-success{
     color: maroon;
@@ -19,7 +19,13 @@ div h1{
     padding-left: 30px;
 }
 body{
-    color: maroon;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#6672ff+0,207cca+0,2989d8+0,2989d8+0,bd84ff+57,bd84ff+100,6672ff+100 */
+background: #6672ff; /* Old browsers */
+background: -moz-linear-gradient(45deg,  #6672ff 0%, #207cca 0%, #2989d8 0%, #2989d8 0%, #bd84ff 57%, #bd84ff 100%, #6672ff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg,  #6672ff 0%,#207cca 0%,#2989d8 0%,#2989d8 0%,#bd84ff 57%,#bd84ff 100%,#6672ff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg,  #6672ff 0%,#207cca 0%,#2989d8 0%,#2989d8 0%,#bd84ff 57%,#bd84ff 100%,#6672ff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6672ff', endColorstr='#6672ff',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
 }
 textarea{
     margin-left: 220px;
